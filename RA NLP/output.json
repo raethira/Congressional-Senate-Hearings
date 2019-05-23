@@ -1,0 +1,1642 @@
+{
+    "mods": {
+        "@xmlns:xlink": "http://www.w3.org/1999/xlink",
+        "@xmlns:exslt": "http://exslt.org/common",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns": "http://www.loc.gov/mods/v3",
+        "@version": "3.3",
+        "@xsi:schemaLocation": "http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd",
+        "@ID": "P0b002ee180aae297",
+        "name": [
+            {
+                "@type": "corporate",
+                "namePart": "United States Government Publishing Office",
+                "role": [
+                    {
+                        "roleTerm": [
+                            {
+                                "@authority": "marcrelator",
+                                "@type": "text",
+                                "#text": "publisher"
+                            },
+                            {
+                                "@authority": "marcrelator",
+                                "@type": "code",
+                                "#text": "pbl"
+                            }
+                        ]
+                    },
+                    {
+                        "roleTerm": [
+                            {
+                                "@authority": "marcrelator",
+                                "@type": "text",
+                                "#text": "distributor"
+                            },
+                            {
+                                "@authority": "marcrelator",
+                                "@type": "code",
+                                "#text": "dst"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "@type": "corporate",
+                "namePart": [
+                    "United States",
+                    "Congress",
+                    "House of Representatives"
+                ],
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "author"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "aut"
+                        }
+                    ]
+                },
+                "description": "Government Organization"
+            },
+            {
+                "@type": "corporate",
+                "namePart": [
+                    "United States",
+                    "Congress",
+                    "House of Representatives",
+                    "Committee on Homeland Security"
+                ],
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "associated name"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "asn"
+                        }
+                    ]
+                },
+                "description": "Government Organization"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Christopher Shays",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Lamar Smith",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Mark E. Souder",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Bennie G. Thompson",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Curt Weldon",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Don Young",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Bob Etheridge",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Jim Gibbons",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Bill Pascrell Jr.",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Loretta Sanchez",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Rob Simmons",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "James R. Langevin",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Mike Rogers",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Ginny Brown-Waite",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Katherine Harris",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Kendrick B. Meek",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Stevan Pearce",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Bobby Jindal",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Charles W. Dent",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Michael T. McCaul",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "David G. Reichert",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Tom Davis",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Peter A. DeFazio",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Norman D. Dicks",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Jane Harman",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Sheila Jackson-Lee",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Peter T. King",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "John Linder",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Zoe Lofgren",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Nita M. Lowey",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Daniel E. Lungren",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Edward J. Markey",
+                "affiliation": "United States House of Representatives",
+                "role": {
+                    "roleTerm": {
+                        "@type": "text",
+                        "#text": "committee member"
+                    }
+                },
+                "description": "United States Congressional Member"
+            },
+            {
+                "@type": "personal",
+                "namePart": "The Honorable Michael P. Jackson, Deputy Secretary, Department of Homeland Security:",
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "witness"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "wit"
+                        }
+                    ]
+                },
+                "description": "Hearing Witness"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Mr. Clark Kent Ervin, Private Citizen, Former Inspector General, Department of Homeland Security:",
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "witness"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "wit"
+                        }
+                    ]
+                },
+                "description": "Hearing Witness"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Mr. Jonathan E. Gold, Vice President, Global Supply Chair Policy, Retail Industry Leaders Association:",
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "witness"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "wit"
+                        }
+                    ]
+                },
+                "description": "Hearing Witness"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Mr. Christopher L. Koch, President and CEO, World Shipping Council:",
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "witness"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "wit"
+                        }
+                    ]
+                },
+                "description": "Hearing Witness"
+            },
+            {
+                "@type": "personal",
+                "namePart": "Ms. Bethann Rooney, Manager of Port Security, Port Authority of New York and New Jersey:",
+                "role": {
+                    "roleTerm": [
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "text",
+                            "#text": "witness"
+                        },
+                        {
+                            "@authority": "marcrelator",
+                            "@type": "code",
+                            "#text": "wit"
+                        }
+                    ]
+                },
+                "description": "Hearing Witness"
+            }
+        ],
+        "typeOfResource": "text",
+        "genre": {
+            "@authority": "marcgt",
+            "#text": "government publication"
+        },
+        "language": {
+            "languageTerm": {
+                "@type": "code",
+                "@authority": "iso639-2b",
+                "#text": "eng"
+            }
+        },
+        "extension": [
+            {
+                "collectionCode": "CHRG",
+                "category": "Congressional Committee Materials",
+                "waisDatabaseName": "109_house_hearings",
+                "branch": "legislative",
+                "dateIngested": "2010-09-27"
+            },
+            {
+                "docClass": "HHRG",
+                "accessId": "CHRG-109hhrg36697",
+                "type": "G",
+                "chamber": "HOUSE",
+                "congress": "109",
+                "session": "2",
+                "heldDate": "2006-04-04"
+            },
+            {
+                "searchTitle": "H.R. 4954, THE SAFE PORT ACT",
+                "granuleClass": "OTHERPART",
+                "accessId": "CHRG-109hhrg36697",
+                "graphicsInPDF": "true",
+                "witness": [
+                    "The Honorable Michael P. Jackson, Deputy Secretary, Department of Homeland Security:",
+                    "Mr. Clark Kent Ervin, Private Citizen, Former Inspector General, Department of Homeland Security:",
+                    "Mr. Jonathan E. Gold, Vice President, Global Supply Chair Policy, Retail Industry Leaders Association:",
+                    "Mr. Christopher L. Koch, President and CEO, World Shipping Council:",
+                    "Ms. Bethann Rooney, Manager of Port Security, Port Authority of New York and New Jersey:"
+                ],
+                "isAppropriation": "false",
+                "congSerial": {
+                    "@chamber": "H",
+                    "@congress": "109",
+                    "@number": "71"
+                },
+                "jacketId": "36-697",
+                "congCommittee": {
+                    "@authorityId": "hshm00",
+                    "@chamber": "H",
+                    "@congress": "109",
+                    "@type": "S",
+                    "name": [
+                        {
+                            "@type": "authority-standard",
+                            "#text": "Committee on Homeland Security"
+                        },
+                        {
+                            "@type": "authority-short",
+                            "#text": "Homeland Security"
+                        }
+                    ]
+                },
+                "congMember": [
+                    {
+                        "@authorityId": "1048",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "CT",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Christopher Shays of Connecticut"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Christopher Shays"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Shays, Christopher"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1075",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "TX",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Lamar S. Smith of Texas"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Lamar Smith"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Smith, Lamar"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1089",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "IN",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Mark E. Souder of Indiana"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Mark E. Souder"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Souder, Mark E."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Mark Edward Souder"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1151",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "MS",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Bennie G. Thompson of Mississippi"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Bennie G. Thompson"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Thompson, Bennie G."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Bennie Thompson"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1214",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "PA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Curt Weldon of Pennsylvania"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Curt Weldon"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Weldon, Curt"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1256",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "AK",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Don Young of Alaska"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Don Young"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Young, Don"
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Don E. Young"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1482",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "NC",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Bob Etheridge of North Carolina"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Bob Etheridge"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Etheridge, Bob"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1485",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "NV",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Jim Gibbons of Nevada"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Jim Gibbons"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Gibbons, Jim"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1510",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "NJ",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Bill Pascrell, Jr. of New Jersey"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Bill Pascrell Jr."
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Pascrell, Bill, Jr."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "William Pascrell Jr."
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1522",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "CA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Loretta Sanchez of California"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Loretta Sanchez"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Sanchez, Loretta"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1642",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "CT",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Rob Simmons of Connecticut"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Rob Simmons"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Simmons, Rob"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1668",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "RI",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "James R. Langevin of Rhode Island"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "James R. Langevin"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Langevin, James R."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "James Langevin"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1704",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "AL",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Mike Rogers of Alabama"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Mike Rogers"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Rogers, Mike D."
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1713",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "FL",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Ginny Brown-Waite of Florida"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Ginny Brown-Waite"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Brown-Waite, Ginny"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1714",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "FL",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Katherine Harris of Florida"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Katherine Harris"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Harris, Katherine"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1715",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "FL",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Kendrick B. Meek of Florida"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Kendrick B. Meek"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Meek, Kendrick B."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Mr. Kendrick Meek"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1738",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "NM",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Stevan Pearce of New Mexico"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Stevan Pearce"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Pearce, Stevan"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1785",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "LA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Bobby Jindal of Louisiana"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Bobby Jindal"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Jindal, Bobby"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1799",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "PA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Charlie Dent of Pennsylvania"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Charles W. Dent"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Dent, Charles W."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Mr. Charles Dent"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1804",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "TX",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Michael McCaul of Texas"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Michael T. McCaul"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "McCaul, Michael T."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Mr. Michael Mccaul"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "1810",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "WA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Dave G. Reichert of Washington"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "David G. Reichert"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Reichert, David G."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Mr. David Reichert"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "274",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "VA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Tom Davis of Virginia"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Tom Davis"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Davis, Tom"
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Thomas Davis III"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "279",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "OR",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Peter A. DeFazio of Oregon"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Peter A. DeFazio"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "DeFazio, Peter A."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Peter Defazio"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "297",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "WA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Norman D. Dicks of Washington"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Norman D. Dicks"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Dicks, Norman D."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Norman Dicks"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "502",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "CA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Jane Harman of California"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Jane Harman"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Harman, Jane"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "588",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "TX",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Sheila Jackson-Lee of Texas"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Sheila Jackson-Lee"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Jackson-Lee, Sheila"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "635",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "NY",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Peter T. King of New York"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Peter T. King"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "King, Peter T."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Peter King"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "693",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "GA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "John Linder of Georgia"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "John Linder"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Linder, John"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "701",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "CA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Zoe Lofgren of California"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Zoe Lofgren"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Lofgren, Zoe"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "709",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "NY",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Nita M. Lowey of New York"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Nita M. Lowey"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Lowey, Nita M."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Nita Lowey"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "717",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "R",
+                        "@role": "COMMMEMBER",
+                        "@state": "CA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Daniel E. Lungren of California"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Daniel E. Lungren"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Lungren, Daniel E."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Daniel Edward Lungren"
+                            }
+                        ]
+                    },
+                    {
+                        "@authorityId": "735",
+                        "@chamber": "H",
+                        "@congress": "109",
+                        "@party": "D",
+                        "@role": "COMMMEMBER",
+                        "@state": "MA",
+                        "name": [
+                            {
+                                "@type": "parsed",
+                                "#text": "Edward J. Markey of Massachusetts"
+                            },
+                            {
+                                "@type": "authority-fnf",
+                                "#text": "Edward J. Markey"
+                            },
+                            {
+                                "@type": "authority-lnf",
+                                "#text": "Markey, Edward J."
+                            },
+                            {
+                                "@type": "authority-other",
+                                "#text": "Edward Markey"
+                            }
+                        ]
+                    }
+                ],
+                "USCode": {
+                    "@title": "46",
+                    "section": [
+                        {
+                            "@number": "70103"
+                        },
+                        {
+                            "@number": "70116"
+                        },
+                        {
+                            "@detail": "(b)(1)",
+                            "@number": "70116"
+                        }
+                    ]
+                },
+                "bill": [
+                    {
+                        "@congress": "109",
+                        "@context": "BODY",
+                        "@number": "1817",
+                        "@type": "HR"
+                    },
+                    {
+                        "@congress": "109",
+                        "@context": "BODY",
+                        "@number": "4899",
+                        "@type": "HR"
+                    },
+                    {
+                        "@congress": "109",
+                        "@context": "COVER",
+                        "@number": "4954",
+                        "@type": "HR"
+                    },
+                    {
+                        "@congress": "109",
+                        "@context": "BODY",
+                        "@number": "4954",
+                        "@type": "HR"
+                    }
+                ],
+                "isNomination": "false",
+                "isErrata": "false"
+            }
+        ],
+        "titleInfo": [
+            {
+                "title": "H.R. 4954, THE SAFE PORT ACT"
+            },
+            {
+                "@type": "alternative"
+            }
+        ],
+        "location": {
+            "url": [
+                {
+                    "@displayLabel": "Content Detail",
+                    "@access": "object in context",
+                    "#text": "https://www.govinfo.gov/app/details/CHRG-109hhrg36697"
+                },
+                {
+                    "@displayLabel": "HTML rendition",
+                    "@access": "raw object",
+                    "#text": "https://www.govinfo.gov/content/pkg/CHRG-109hhrg36697/html/CHRG-109hhrg36697.htm"
+                },
+                {
+                    "@displayLabel": "PDF rendition",
+                    "@access": "raw object",
+                    "#text": "https://www.govinfo.gov/content/pkg/CHRG-109hhrg36697/pdf/CHRG-109hhrg36697.pdf"
+                }
+            ]
+        },
+        "originInfo": {
+            "publisher": "U.S. Government Printing Office",
+            "dateIssued": {
+                "@encoding": "w3cdtf",
+                "#text": "2006-04-04"
+            },
+            "issuance": "monographic"
+        },
+        "physicalDescription": {
+            "note": {
+                "@type": "source content type",
+                "#text": "deposited"
+            },
+            "digitalOrigin": "born digital",
+            "extent": "88 p."
+        },
+        "classification": {
+            "@authority": "sudocs",
+            "#text": "Y 4.H 75"
+        },
+        "identifier": [
+            {
+                "@type": "uri",
+                "#text": "https://www.govinfo.gov/app/details/CHRG-109hhrg36697"
+            },
+            {
+                "@type": "local",
+                "#text": "P0b002ee180aae297"
+            },
+            {
+                "@type": "former package identifier",
+                "#text": "f:36697.done.txt"
+            }
+        ],
+        "recordInfo": {
+            "recordContentSource": {
+                "@authority": "marcorg",
+                "#text": "DGPO"
+            },
+            "recordCreationDate": {
+                "@encoding": "w3cdtf",
+                "#text": "2010-09-27"
+            },
+            "recordChangeDate": {
+                "@encoding": "w3cdtf",
+                "#text": "2013-01-30"
+            },
+            "recordIdentifier": {
+                "@source": "DGPO",
+                "#text": "CHRG-109hhrg36697"
+            },
+            "recordOrigin": "machine generated",
+            "languageOfCataloging": {
+                "languageTerm": {
+                    "@type": "code",
+                    "@authority": "iso639-2b",
+                    "#text": "eng"
+                }
+            }
+        },
+        "accessCondition": {
+            "@type": "GPO scope determination",
+            "#text": "fdlp"
+        },
+        "relatedItem": [
+            {
+                "@type": "isReferencedBy",
+                "identifier": {
+                    "@type": "Jacket citation"
+                }
+            },
+            {
+                "@type": "isReferencedBy",
+                "titleInfo": {
+                    "title": "United States House Bill 1817 (109th Congress)"
+                },
+                "identifier": {
+                    "@type": "Congressional Bill citation",
+                    "#text": "H.R. 1817"
+                },
+                "extension": {
+                    "congress": "109",
+                    "context": "BODY"
+                }
+            },
+            {
+                "@type": "isReferencedBy",
+                "titleInfo": {
+                    "title": "United States House Bill 4899 (109th Congress)"
+                },
+                "identifier": {
+                    "@type": "Congressional Bill citation",
+                    "#text": "H.R. 4899"
+                },
+                "extension": {
+                    "congress": "109",
+                    "context": "BODY"
+                }
+            },
+            {
+                "@type": "isReferencedBy",
+                "titleInfo": {
+                    "title": "United States House Bill 4954 (109th Congress)"
+                },
+                "identifier": {
+                    "@type": "Congressional Bill citation",
+                    "#text": "H.R. 4954"
+                },
+                "extension": {
+                    "congress": "109",
+                    "context": "COVER"
+                }
+            },
+            {
+                "@type": "isReferencedBy",
+                "titleInfo": {
+                    "title": "United States House Bill 4954 (109th Congress)"
+                },
+                "identifier": {
+                    "@type": "Congressional Bill citation",
+                    "#text": "H.R. 4954"
+                },
+                "extension": {
+                    "congress": "109",
+                    "context": "BODY"
+                }
+            },
+            {
+                "@type": "isReferencedBy",
+                "titleInfo": {
+                    "title": "United States Code",
+                    "partNumber": [
+                        "Title 46 Section 70103",
+                        "Title 46 Section 70116",
+                        "Title 46 Section 70116(b)(1)"
+                    ]
+                },
+                "identifier": [
+                    {
+                        "@type": "USC citation",
+                        "#text": "46 U.S.C. 70103"
+                    },
+                    {
+                        "@type": "USC citation",
+                        "#text": "46 U.S.C. 70116"
+                    },
+                    {
+                        "@type": "USC citation",
+                        "#text": "46 U.S.C. 70116(b)(1)"
+                    }
+                ]
+            },
+            {
+                "@type": "isReferencedBy",
+                "titleInfo": {
+                    "title": "United States Congress Serial Number 71 (109th Congress)"
+                },
+                "identifier": {
+                    "@type": "congressional serial number",
+                    "#text": "Serial No. 109-71"
+                }
+            }
+        ]
+    }
+}

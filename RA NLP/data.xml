@@ -1,0 +1,434 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:exslt="http://exslt.org/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee189eab8a2">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CHRG</collectionCode>
+ <category>Congressional Committee Materials</category>
+ <waisDatabaseName>112_senate_hearings</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2014-10-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>STAY-AT-WORK AND BACK-TO-WORK STRATEGIES: LESSONS FROM THE PRIVATE SECTOR</title>
+</titleInfo>
+<titleInfo type="alternative"></titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CHRG-112shrg90773</url>
+ <url displayLabel="HTML rendition" access="raw object">https://www.govinfo.gov/content/pkg/CHRG-112shrg90773/html/CHRG-112shrg90773.htm</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CHRG-112shrg90773/pdf/CHRG-112shrg90773.pdf</url>
+</location>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2012-03-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>59 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 4.L 11/4:S.HRG.112-335</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CHRG-112shrg90773</identifier>
+<identifier type="local">P0b002ee189eab8a2</identifier>
+<identifier type="ILS system id">000937468</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2014-10-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2018-07-06</recordChangeDate>
+ <recordIdentifier source="DGPO">CHRG-112shrg90773</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>SHRG</docClass>
+ <accessId>CHRG-112shrg90773</accessId>
+ <type>G</type>
+ <chamber>SENATE</chamber>
+ <congress>112</congress>
+ <session>2</session>
+ <number>335</number>
+ <heldDate>2012-03-22</heldDate>
+</extension>
+<extension>
+ <searchTitle>STAY-AT-WORK AND BACK-TO-WORK STRATEGIES: LESSONS FROM THE PRIVATE SECTOR</searchTitle>
+ <granuleClass>OTHERPART</granuleClass>
+ <accessId>CHRG-112shrg90773</accessId>
+ <graphicsInPDF>true</graphicsInPDF>
+ <witness>Watjen, Thomas R., M.B.A., President and Chief Executive Officer, Unum Group, Chattanooga, TN</witness>
+ <witness>Amato, Karen A., R.N., C.C.M., C.P.D.M., Director, Wellwithin and Corporate Responsibility Programs, SRA International, Inc., Arlington, VA</witness>
+ <witness>Walters, Christine V., M.A.S., J.D., S.P.H.R., Sole Proprietor, FiveL Company, Westminister, MD</witness>
+ <witness>Buehlmann, Eric, J.D., Arlington, VA</witness>
+ <witness>Mitchell, Kenneth, Ph.D., Managing Partner, Work RX Group, Ltd., Worthington, OH</witness>
+ <isAppropriation>false</isAppropriation>
+ <jacketId>90-773</jacketId>
+ <congCommittee authorityId="sshr00" chamber="S" congress="112" type="S">
+                          <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                          <name type="authority-short">HELP</name>
+                    </congCommittee>
+ <congMember authorityId="1010" bioGuideId="S000033" chamber="S" congress="112" gpoId="8270" party="I" role="COMMMEMBER" state="VT">
+                          <name type="parsed">BERNARD SANDERS (I) of Vermont</name>
+                          <name type="authority-fnf">Bernard Sanders</name>
+                          <name type="authority-lnf">Sanders, Bernard</name>
+                    </congMember>
+ <congMember authorityId="1285" bioGuideId="B000468" chamber="S" congress="112" gpoId="8312" party="D" role="COMMMEMBER" state="NM">
+                          <name type="parsed">JEFF BINGAMAN of New Mexico</name>
+                          <name type="authority-fnf">Jeff Bingaman</name>
+                          <name type="authority-lnf">Bingaman, Jeff</name>
+                          <name type="authority-other">Jesse Francis Bingaman</name>
+                    </congMember>
+ <congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="112" gpoId="8314" party="R" role="COMMMEMBER" state="UT">
+                          <name type="parsed">ORRIN G. HATCH of Utah</name>
+                          <name type="authority-fnf">Orrin G. Hatch</name>
+                          <name type="authority-lnf">Hatch, Orrin G.</name>
+                          <name type="authority-other">Orrin Grant Hatch</name>
+                    </congMember>
+ <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="112" gpoId="8237" party="D" role="COMMMEMBER" state="WA">
+                          <name type="parsed">PATTY MURRAY of Washington</name>
+                          <name type="authority-fnf">Patty Murray</name>
+                          <name type="authority-lnf">Murray, Patty</name>
+                    </congMember>
+ <congMember authorityId="153" bioGuideId="B001135" chamber="S" congress="112" gpoId="8286" party="R" role="COMMMEMBER" state="NC">
+                          <name type="parsed">RICHARD BURR of North Carolina</name>
+                          <name type="authority-fnf">Richard Burr</name>
+                          <name type="authority-lnf">Burr, Richard</name>
+                    </congMember>
+ <congMember authorityId="1542" bioGuideId="E000285" chamber="S" congress="112" gpoId="8328" party="R" role="COMMMEMBER" state="WY">
+                          <name type="parsed">MICHAEL B. ENZI of Wyoming</name>
+                          <name type="authority-fnf">Michael B. Enzi</name>
+                          <name type="authority-lnf">Enzi, Michael B.</name>
+                          <name type="authority-other">Michael Enzi</name>
+                    </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="112" gpoId="8323" party="R" role="COMMMEMBER" state="GA">
+                          <name type="parsed">JOHNNY ISAKSON of Georgia</name>
+                          <name type="authority-fnf">Johnny Isakson</name>
+                          <name type="authority-lnf">Isakson, Johnny</name>
+                    </congMember>
+ <congMember authorityId="1647" bioGuideId="K000360" chamber="S" congress="112" gpoId="8285" party="R" role="COMMMEMBER" state="IL">
+                          <name type="parsed">MARK KIRK of Illinois</name>
+                          <name type="authority-fnf">Mark Kirk</name>
+                          <name type="authority-lnf">Kirk, Mark Steven</name>
+                          <name type="authority-other">Mark Steven Kirk</name>
+                    </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="112" gpoId="8234" party="R" role="COMMMEMBER" state="AK">
+                          <name type="parsed">LISA MURKOWSKI of Alaska</name>
+                          <name type="authority-fnf">Lisa Murkowski</name>
+                          <name type="authority-lnf">Murkowski, Lisa</name>
+                    </congMember>
+ <congMember authorityId="1695" bioGuideId="A000360" chamber="S" congress="112" gpoId="8304" party="R" role="COMMMEMBER" state="TN">
+                          <name type="parsed">LAMAR ALEXANDER of Tennessee</name>
+                          <name type="authority-fnf">Lamar Alexander</name>
+                          <name type="authority-lnf">Alexander, Lamar</name>
+                    </congMember>
+ <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="112" gpoId="8264" party="D" role="COMMMEMBER" state="RI">
+                          <name type="parsed">SHELDON WHITEHOUSE of Rhode Island</name>
+                          <name type="authority-fnf">Sheldon Whitehouse</name>
+                          <name type="authority-lnf">Whitehouse, Sheldon</name>
+                    </congMember>
+ <congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="112" gpoId="8238" party="D" role="COMMMEMBER" state="OR">
+                          <name type="parsed">JEFF MERKLEY of Oregon</name>
+                          <name type="authority-fnf">Jeff Merkley</name>
+                          <name type="authority-lnf">Merkley, Jeff</name>
+                    </congMember>
+ <congMember authorityId="1902" bioGuideId="H001049" chamber="S" congress="112" gpoId="8318" party="D" role="COMMMEMBER" state="NC">
+                          <name type="parsed">KAY R. HAGAN of North Carolina</name>
+                          <name type="authority-fnf">Kay R. Hagan</name>
+                          <name type="authority-lnf">Hagan, Kay R.</name>
+                          <name type="authority-other">Mrs. Kay Hagan</name>
+                    </congMember>
+ <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="112" gpoId="8302" party="D" role="COMMMEMBER" state="CO">
+                          <name type="parsed">MICHAEL F. BENNET of Colorado</name>
+                          <name type="authority-fnf">Michael F. Bennet</name>
+                          <name type="authority-lnf">Bennet, Michael F.</name>
+                          <name type="authority-other">Mr. Michael Bennet</name>
+                    </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="112" gpoId="8339" party="D" role="COMMMEMBER" state="MN">
+                          <name type="parsed">AL FRANKEN of Minnesota</name>
+                          <name type="authority-fnf">Al Franken</name>
+                          <name type="authority-lnf">Franken, Al</name>
+                    </congMember>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="112" gpoId="8332" party="D" role="COMMMEMBER" state="CT">
+                          <name type="parsed">RICHARD BLUMENTHAL of Connecticut</name>
+                          <name type="authority-fnf">Richard Blumenthal</name>
+                          <name type="authority-lnf">Blumenthal, Richard</name>
+                    </congMember>
+ <congMember authorityId="2082" bioGuideId="P000603" chamber="S" congress="112" gpoId="8308" party="R" role="COMMMEMBER" state="KY">
+                          <name type="parsed">RAND PAUL of Kentucky</name>
+                          <name type="authority-fnf">Rand Paul</name>
+                          <name type="authority-lnf">Paul, Rand</name>
+                    </congMember>
+ <congMember authorityId="501" bioGuideId="H000206" chamber="S" congress="112" gpoId="8317" party="D" role="COMMMEMBER" state="IA">
+                          <name type="parsed">TOM HARKIN of Iowa</name>
+                          <name type="authority-fnf">Tom Harkin</name>
+                          <name type="authority-lnf">Harkin, Tom</name>
+                          <name type="authority-other">Thomas Richard Harkin</name>
+                    </congMember>
+ <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="112" gpoId="8253" party="R" role="COMMMEMBER" state="AZ">
+                          <name type="parsed">JOHN McCAIN of Arizona</name>
+                          <name type="authority-fnf">John McCain</name>
+                          <name type="authority-lnf">McCain, John</name>
+                          <name type="authority-other">John Sidney Mccain</name>
+                    </congMember>
+ <congMember authorityId="802" bioGuideId="M000702" chamber="S" congress="112" gpoId="8240" party="D" role="COMMMEMBER" state="MD">
+                          <name type="parsed">BARBARA A. MIKULSKI of Maryland</name>
+                          <name type="authority-fnf">Barbara A. Mikulski</name>
+                          <name type="authority-lnf">Mikulski, Barbara A.</name>
+                          <name type="authority-other">Barbara Ann Mikulski</name>
+                    </congMember>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="112" gpoId="8275" party="R" role="COMMMEMBER" state="KS">
+                          <name type="parsed">PAT ROBERTS of Kansas</name>
+                          <name type="authority-fnf">Pat Roberts</name>
+                          <name type="authority-lnf">Roberts, Pat</name>
+                    </congMember>
+ <isNomination>false</isNomination>
+ <isErrata>false</isErrata>
+</extension>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+  <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="personal">
+ <namePart>Bernard Sanders</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Bingaman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Orrin G. Hatch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Patty Murray</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Burr</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael B. Enzi</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Kirk</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Alexander</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheldon Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Merkley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Kay R. Hagan</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael F. Bennet</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Rand Paul</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Harkin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>John McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara A. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">committee member</roleTerm>
+</role>
+ <description>United States Congressional Member</description>
+</name>
+<name type="personal">
+ <namePart>Watjen, Thomas R., M.B.A., President and Chief Executive Officer, Unum Group, Chattanooga, TN</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">witness</roleTerm>
+  <roleTerm authority="marcrelator" type="code">wit</roleTerm>
+</role>
+ <description>Hearing Witness</description>
+</name>
+<name type="personal">
+ <namePart>Amato, Karen A., R.N., C.C.M., C.P.D.M., Director, Wellwithin and Corporate Responsibility Programs, SRA International, Inc., Arlington, VA</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">witness</roleTerm>
+  <roleTerm authority="marcrelator" type="code">wit</roleTerm>
+</role>
+ <description>Hearing Witness</description>
+</name>
+<name type="personal">
+ <namePart>Walters, Christine V., M.A.S., J.D., S.P.H.R., Sole Proprietor, FiveL Company, Westminister, MD</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">witness</roleTerm>
+  <roleTerm authority="marcrelator" type="code">wit</roleTerm>
+</role>
+ <description>Hearing Witness</description>
+</name>
+<name type="personal">
+ <namePart>Buehlmann, Eric, J.D., Arlington, VA</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">witness</roleTerm>
+  <roleTerm authority="marcrelator" type="code">wit</roleTerm>
+</role>
+ <description>Hearing Witness</description>
+</name>
+<name type="personal">
+ <namePart>Mitchell, Kenneth, Ph.D., Managing Partner, Work RX Group, Ltd., Worthington, OH</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">witness</roleTerm>
+  <roleTerm authority="marcrelator" type="code">wit</roleTerm>
+</role>
+ <description>Hearing Witness</description>
+</name>
+<relatedItem type="isReferencedBy">
+ <identifier type="Jacket citation"></identifier>
+</relatedItem>
+</mods>

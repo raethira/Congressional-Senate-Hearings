@@ -1,0 +1,98 @@
+## to run the parser
+from gpo_tools.parse import Parser
+parser = Parser(db ='hearings', user='lauren',password='123456',host='localhost')
+#can either answer 'y' or put an integer congress number (eg, 100), or put a single hearing in quotes (eg, "CHRG-105shrg46105")
+parser.parse_gpo_hearings(n_cores=1)
+
+
+## to dump the output to json (one json file per hearing)
+import json
+
+count = 0
+for res in parser.results:
+  try:
+    jacket = res[0]["jacket"]
+    data = res
+    with open('results/' + jacket + '.txt', 'w') as outfile:
+        json.dump(data, outfile)
+    count += 1
+  except:
+    continue
+
+print (count)
+
+
+
+
+
+
+
+
+#to get csv of one file
+import csv, json, sys
+
+input = open("results/CHRG-107hhrg81932.txt")
+data = json.load(input)
+input.close()
+
+#output = csv.writer(sys.stdout)
+outfile = open("results_csvs/CHRG-107hhrg81932.csv", 'wb')
+output = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+output.writerow(data[0].keys())  # header row
+
+for row in data:
+    vals = row.values()
+    new_vals = ["|".join(val) if type(val) is list else val for val in vals]
+    #for val in vals:
+    #    if type(val) is list:
+    #        new_vals.append("|".join(val))
+    #    else:
+    #        new_vals.append(val)
+    #output.writerow(row.values())
+    output.writerow(new_vals)
+
+
+
+
+
+
+#to get 5 randomly sampled csvs from eaach congress
+import csv, json, sys
+from os import listdir
+from os.path import isfile, join
+import random
+
+
+#set seed for reproducibility
+random.seed(1)
+
+
+#get all files in folder
+mypath = "results/"
+onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+
+#for each congress, randomly sample 5 of them
+for congress in range(105, 116):
+    congress_files = [f for f in onlyfiles if "CHRG-" + str(congress) in f]
+    #randomly sample 5
+    samples = random.sample(congress_files, 5)
+    for s in samples:
+        input = open("results/" + s)
+        data = json.load(input)
+        input.close()
+        #output = csv.writer(sys.stdout)
+        outfile = open("results_csvs/" + s.replace(".txt", ".csv"), 'wb')
+        output = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        output.writerow(data[0].keys())  # header row
+        for row in data:
+            vals = row.values()
+            new_vals = ["|".join(val) if type(val) is list else val for val in vals]
+            #for val in vals:
+            #    if type(val) is list:
+            #        new_vals.append("|".join(val))
+            #    else:
+            #        new_vals.append(val)
+            #output.writerow(row.values())
+            output.writerow(new_vals)

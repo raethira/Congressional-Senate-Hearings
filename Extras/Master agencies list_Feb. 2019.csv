@@ -1,0 +1,368 @@
+JK Code,Agency,Alternate Name,UA Code,Parent UA Code
+1,Executive Office of the President,,300,300
+2,Council on Environmental Quality,,331,300
+3,Office of Management and Budget,,348,300
+4,Office of Science and Technology,,349,300
+5,Office of the United States Trade Representative,,350,300
+6,Privacy and Civil Liberties Oversight Board,,311,311
+7,United States Agency for International Development,,412,412
+8,Inter-American Foundation,,417,417
+9,Peace Corps,,420,420
+10,Recovery Accountability and Transparency Board,,430,430
+11,Department of Agriculture,,500,500
+12,Office of the Chief Financial Officer,,505,500
+13,Agricultural Research Service,,518,500
+14,"Cooperative State Research, Education, and Extension Services",,524,500
+15,National Institute of Food and Agriculture,,524,500
+16,National Agricultural Statistics Service,,535,500
+17,Foreign Agricultural Service,,551,500
+18,Farm Service Agency,,560,500
+19,Federal Crop Insurance Corporation,,563,500
+20,Commodity Credit Corporation,,566,500
+21,Rural Business-Cooperative Service,,570,500
+22,Rural Utilities Service,,572,500
+23,Rural Housing Service,,575,500
+24,United States International Development Cooperation Agency,,577,500
+25,Natural Resources Conservation Service,,578,500
+26,Animal and Plant Health Inspection Service,,579,500
+27,"Grain Inspection, Packers and Stockyards Administration",,580,500
+28,Agricultural Marketing Service,,581,500
+29,Food Safety and Inspection Service,,583,500
+30,Food and Nutrition Service,,584,500
+31,Forest Service,,596,500
+32,Office of Procurement and Property Management,,599,500
+33,Department of Commerce,,600,600
+34,U.S. Census Bureau,,607,600
+35,Economic Development Administration,,610,600
+36,International Trade Administration,,625,600
+37,National Oceanic and Atmospheric Administration,,648,600
+38,U.S. Patent and Trademark Office,,651,600
+39,National Telecommunications and Information Administration,,660,600
+40,Bureau of Economic Analysis,,691,600
+41,National Technical Information Service,,692,600
+42,Technology Administration,,692,600
+43,National Institute of Standards and Technology,,693,600
+44,Bureau of Industry and Security,,694,600
+45,Department of Defense,,700,700
+46,Department of the Air Force,,701,700
+47,Department of the Army,,702,700
+48,Department of the Navy,,703,700
+49,U.S. Army Corps of Engineers,,710,700
+50,Office of Assistant Secretary for Health Affairs,,720,700
+51,Defense Finance and Accounting Service,,730,700
+52,Defense Acquisition Regulations Council,,750,700
+53,Department of Health and Human Services,,900,900
+54,Public Health Service,,905,900
+55,Health Resources and Services Administration,,906,900
+56,Food and Drug Administration,,910,900
+57,Indian Health Service,,917,900
+58,Agency for Health Care Policy and Research,,919,900
+59,Agency for Healthcare Research and Quality,,919,900
+60,Centers for Disease Control and Prevention,,920,900
+61,National Institutes of Health,,925,900
+62,Substance Abuse and Mental Health Services Administration,,930,900
+63,Office of Assistant Secretary for Health,,937,900
+64,Centers for Medicare and Medicaid Services,,938,900
+65,Office of Public Health and Science,,940,900
+66,Office of Consumer Information and Insurance Oversight,,950,900
+67,Office of the National Coordinator for Health Information Technology,,955,900
+68,Administration for Children and Families,,970,900
+69,Administration for Community Living,,985,900
+70,Administration on Aging,,985,900
+71,Social Security Administration,,960,960
+72,Department of the Interior,,1000,1000
+73,Bureau of Land Management,,1004,1000
+74,Bureau of Reclamation,,1006,1000
+75,Bureau of Ocean Energy Management,,1010,1000
+76,"Bureau of Ocean Energy Management, Regulation, and Enforcement",,1010,1000
+77,Minerals Management Service,,1010,1000
+78,Office of Natural Resources Revenue,,1012,1000
+79,Bureau of Safety and Environmental Enforcement,,1014,1000
+80,U.S. Fish and Wildlife Service,,1018,1000
+81,National Park Service,,1024,1000
+82,U.S. Geological Survey,,1028,1000
+83,Office of Surface Mining Reclamation and Enforcement,,1029,1000
+84,Bureau of Indian Affairs,,1076,1000
+85,Assistant Secretary for Land and Minerals Management,,1082,1000
+86,"Assistant Secretary for Policy, Management and Budget",,1090,1000
+87,Office of Hearings and Appeals,,1094,1000
+88,Department of Justice,,1100,1100
+89,United States Parole Commission,,1104,1100
+90,Federal Bureau of Investigation,,1110,1100
+91,Drug Enforcement Administration,,1117,1100
+92,Bureau of Prisons,,1120,1100
+93,Office of Justice Programs,,1121,1100
+94,Executive Office for Immigration Review,,1125,1100
+95,"Bureau of Alcohol, Tobacco, Firearms and Explosives",,1140,1100
+96,Civil Rights Division,,1190,1100
+97,Immigration and Naturalization Services,,1115,1115
+98,Department of Labor,,1200,1200
+99,Employment and Training Administration,,1205,1200
+100,Employee Benefits Security Administration,,1210,1200
+101,Employment Standards Administration,,1215,1200
+102,Occupational Safety and Health Administration,,1218,1200
+103,Federal Mine Safety and Health Administration,,1219,1200
+104,Bureau of Labor Statistics,,1220,1200
+105,Wage and Hour Division,,1235,1200
+106,Office of Workers' Compensation Programs,,1240,1200
+107,Office of Labor-Management Standards,,1245,1200
+108,Office of Federal Contract Compliance Programs,,1250,1200
+109,Office of the Assistant Secretary for Administration and Management,,1291,1200
+110,Office of the Assistant Secretary for Veterans' Employment and Training,,1293,1200
+111,Office of the American Workplace,,1294,1200
+112,Pension Benefit Guaranty Corporation,,1212,1212
+113,Department of State,,1400,1400
+114,Department of the Treasury,,1500,1500
+115,Financial Crimes Enforcement Network,,1506,1500
+116,Financial Management Service,,1510,1500
+117,"Bureau of Alcohol, Tobacco and Firearms",,1512,1500
+118,Alcohol and Tobacco Tax and Trade Bureau,,1513,1500
+119,Customs Revenue Function,,1515,1500
+120,United States Customs Service,,1515,1500
+121,Bureau of the Fiscal Service,,1530,1500
+122,Bureau of the Public Debt,,1535,1500
+123,Internal Revenue Service,,1545,1500
+124,Office of Thrift Supervision,,1550,1500
+125,Office of the Comptroller of the Currency,,1557,1500
+126,Community Development Financial Institutions Fund,,1559,1500
+127,Department of Homeland Security,,1600,1600
+128,Bureau of Citizenship and Immigration Services,,1615,1600
+129,United States Citizenship and Immigration Services,,1615,1600
+130,Secret Service,,1620,1600
+131,U.S. Coast Guard,,1625,1600
+132,Directorate of Border and Transportation Security,,1650,1600
+133,Bureau of Customs and Border Protection,,1651,1600
+134,United States Customs and Border Protection,,1651,1600
+135,Transportation Security Administration,,1652,1600
+136,Bureau of Immigration and Customs Enforcement,,1653,1600
+137,United States Immigration and Customs Enforcement,,1653,1600
+138,Directorate of Emergency Preparedness and Response,,1660,1600
+139,Federal Emergency Management Agency,,1660,1600
+140,Department of Education,,1800,1800
+141,Office of Elementary and Secondary Education,,1810,1800
+142,Office of Special Education and Rehabilitative Services,,1820,1800
+143,"Office of Career, Technical, and Adult Education",,1830,1800
+144,Office of Vocational and Adult Education,,1830,1800
+145,Office of Postsecondary Education,,1840,1800
+146,Office of Federal Student Aid,,1845,1800
+147,Institute of Education Sciences,,1850,1800
+148,Office of Innovation and Improvement,,1855,1800
+149,Office of Intergovernmental and Interagency Affairs,,1860,1800
+150,Office of Safe and Drug-Free Schools,,1865,1800
+151,"Office of Planning, Evaluation and Policy Development",,1875,1800
+152,Office of English Language Acquistion,,1885,1800
+153,Office of the Chief Financial Officer,,1890,1800
+154,Department of Energy,,1900,1900
+155,Federal Energy Regulatory Commission,,1902,1900
+156,Office of Energy Efficiency and Renewable Energy,,1904,1900
+157,Energy Information Administration,,1905,1900
+158,Acquisition and Project Management,,1991,1900
+159,Office of Acquisition Management,,1991,1900
+160,Office of Procurement and Assistance Management,,1991,1900
+161,Office of Procurement and Assistance Policy,,1991,1900
+162,Defense and Security Affairs,,1992,1900
+163,National Nuclear Security Agency,,1994,1900
+164,Environmental Protection Agency,,2000,2000
+165,Office of Policy,,2010,2000
+166,Office of Enforcement and Compliance Assurance,,2020,2000
+167,Office of Environmental Information,,2025,2000
+168,Administration and Resources Management,,2030,2000
+169,Office of Water,,2040,2000
+170,Office of Land and Emergency Management,,2050,2000
+171,Solid Waste and Emergency Response,,2050,2000
+172,Office of Air and Radiation,,2060,2000
+173,Office of Chemical Safety and Pollution Prevention,,2070,2000
+174,"Office of Prevention, Pesticides and Toxic Substances",,2070,2000
+175,Office of Research and Development,,2080,2000
+176,Department of Transportation,,2100,2100
+177,U.S. Coast Guard,,2115,2100
+178,Federal Aviation Administration,,2120,2100
+179,Federal Highway Administration,,2125,2100
+180,Federal Motor Carrier Safety Administration,,2126,2100
+181,National Highway Traffic Safety Administration,,2127,2100
+182,Federal Railroad Administration,,2130,2100
+183,Federal Transit Administration,,2132,2100
+184,Maritime Administration,,2133,2100
+185,Saint Lawrence Seaway Development Corporation,,2135,2100
+186,Pipeline and Hazardous Materials Safety Administration,,2137,2100
+187,Research and Special Programs Administration,,2137,2100
+188,Bureau of Transportation Statistics,,2139,2100
+189,Research and Innovative Technologies Administration,,2139,2100
+190,Surface Transportation Board,,2140,2140
+191,Department of Housing and Urban Development,,2500,2500
+192,Office of Housing,,2502,2500
+193,Government National Mortgage Association,Ginnie Mae,2503,2500
+194,Office of Community Planning and Development,,2506,2500
+195,Office of Fair Housing and Equal Opportunity,,2529,2500
+196,Office of Public and Indian Housing,,2577,2500
+197,Office of Federal Housing Enterprise Oversight,,2550,2550
+198,Federal Housing Finance Agency,,2590,2590
+199,National Aeronautics and Space Administration,,2700,2700
+200,Department of Veterans Affairs,,2900,2900
+201,Administrative Conference of the United States,,3002,3002
+202,United States African Development Foundation,,3005,3005
+203,Advisory Council on Historic Preservation,,3010,3010
+204,Appalachian Regional Commission,,3011,3011
+205,Architectural and Transportation Barriers Compliance Board,,3014,3014
+206,Barry Goldwater Scholarship and Excellence in Education Program,,3019,3019
+207,James Madison Memorial Fellowship Foundation,,3020,3020
+208,Commission on Civil Rights,,3035,3035
+209,Committee for Purchase From People Who Are Blind or Severely Disabled,,3037,3037
+210,Commodities Futures Trading Commission,,3038,3038
+211,Consumer Product Safety Commission,,3041,3041
+212,Corporation for National Community Service,,3045,3045
+213,Equal Employment Opportunity Commission,,3046,3046
+214,Export-Import Bank of the United States,,3048,3048
+215,Farm Credit Administration,,3052,3052
+216,Farm Credit System Insurance Corporation,,3055,3055
+217,Federal Communications Commission,,3060,3060
+218,Federal Deposit Insurance Corporation,,3064,3064
+219,Federal Housing Finance Agency,,3069,3069
+220,Federal Labor Relations Authority,,3070,3070
+221,Federal Maritime Commission,,3072,3072
+222,Federal Mediation and Conciliation Service,,3076,3076
+223,Federal Mine Safety and Health Review Commission,,3079,3079
+224,Federal Trade Commission,,3084,3084
+225,General Services Administration,,3090,3090
+226,National Archives and Records Administration,,3095,3095
+227,Harry S Truman Scholarship Foundation,,3111,3111
+228,Broadcasting Board of Governors,,3112,3112
+229,U.S. Information Agency,,3116,3116
+230,United States International Trade Commission,,3117,3117
+231,Interstate Commerce Commission,,3120,3120
+232,Legal Services Corporation,,3122,3122
+233,Merit Systems Protection Board,,3124,3124
+234,National Commission on Libraries and Information Science,,3130,3130
+235,National Credit Union Administration,,3133,3133
+236,National Endowment for the Arts,,3135,3135
+237,National Endowment for the Humanities,,3136,3136
+238,Institute for Museum and Library Services,,3137,3137
+239,National Institute of Building Sciences,,3138,3138
+240,National Mediation Board,,3140,3140
+241,National Indian Gaming Commission,,3141,3141
+242,National Labor Relations Board,,3142,3142
+243,National Science Foundation,,3145,3145
+244,National Transportation Safety Board,,3147,3147
+245,Nuclear Regulatory Commission,,3150,3150
+246,Defense Nuclear Facilities Safety Board,,3155,3155
+247,Consumer Financial Protection Bureau,,3170,3170
+248,Office of National Drug Control Policy,,3201,3201
+249,Occupational Safety and Health Review Commission,,3202,3202
+250,Thrift Depositor Protection Oversight Board,,3203,3203
+251,Office of Personnel Management,,3206,3206
+252,Panama Canal Commission,,3207,3207
+253,Pennsylvania Avenue Development Corporation,,3208,3208
+254,Office of Government Ethics,,3209,3209
+255,United States Postal Service,,3210,3210
+256,Postal Regulatory Commission,,3211,3211
+257,Presidio Trust,,3212,3212
+258,Council of the Inspectors General on Integrity and Efficiency,,3219,3219
+259,Railroad Retirement Board,,3220,3220
+260,Court Services and Offender Supervision Agency,,3225,3225
+261,Securities and Exchange Commission,,3235,3235
+262,Selective Service System,,3240,3240
+263,Small Business Administration,,3245,3245
+264,Smithsonian Institution,,3250,3250
+265,Office of Special Counsel,,3255,3255
+266,American Battle Monuments Commission,,3263,3263
+267,Tennessee Valley Authority,,3316,3316
+268,Morris K. Udall Scholarship Foundation,,3320,3320
+269,Trade and Development Agency,,3330,3330
+270,Overseas Private Investment Corporation,,3420,3420
+271,National Institute for Literacy,,3430,3430
+272,Special Inspector General for Afghanistan Reconstruction,,3460,3460
+273,National Council on Disability,,3480,3480
+274,Gulf Coast Ecosystem Restoration Council,,3600,3600
+275,Financial Stability Oversight Council,,4030,4030
+276,Federal Reserve ,,7100,7100
+277,DOD/GSA/NASA (FAR),,9000,9000
+278,Arms Control and International Security,,,
+279,Asian Development Bank,,,
+280,Board for International Broadcasting,,,
+281,Board of Veterans Appeals,,,
+282,Bureau of Consular Affairs,,,
+283,Bureau of Diplomatic Security,,,
+284,Bureau of International Narcotics and Law Enforcement Affairs,,,
+285,Central Intelligence Agency,,,
+286,Chemical Safety and Hazard Investigation Board,,,
+287,Civil Service Commission,,,
+288,"Civilian Security, Democracy, and Human Rights",,,
+289,Corporation for Public Broadcasting,,,
+290,Council of Economic Advisors,,,
+291,Defense Advanced Research Projects Agency,,,
+292,Defense Base Closure and Realignment Commission,,,
+293,Defense Commissary Agency,,,
+294,Defense Contract Audit Agency,,,
+295,Defense Contract Management Agency,,,
+296,Defense Health Agency,,,
+297,Delta Regional Authority,,,
+298,"District of Columbia Offender Supervision, Defender, and Courts Services Agency",,,
+299,"Economic Growth, Energy, and the Environment",,,
+300,Election Assistance Commission,,,
+301,Energy R&D Administration,,,
+302,European Bank for Reconstruction and Development,,,
+303,Executive Office for United States Attorneys,,,
+304,Executive Residence at the White House,,,
+305,Federal Agricultural Mortgage Corporation,Farmer Mac,,
+306,Federal Election Commission,,,
+307,Federal Home Loan Mortgage Corporation,Freddie Mac,,
+308,Federal Hospital Insurance Trust Fund Board ,,,
+309,Federal Housing Administration,,,
+310,Federal Insurance Trust Fund,,,
+311,Federal National Mortgage Association,Fannie Mae,,
+312,Federal Retirement Thrift Investment Board,,,
+313,Federal Supplementary Medication Insurance Trust Fund Board,,,
+314,Foreign Claims Settlement Commission of the United States,,,
+315,General Accounting Office,,,
+316,Government Printing Office,,,
+317,Independent Payment Advisory Board,,,
+318,Institute of American Indian Arts,,,
+319,Internal Revenue Service Oversight Board,,,
+320,International Atomic Energy Agency,,,
+321,International Bank for Reconstruction and Development,,,
+322,International Communication Agency,,,
+323,"International Joint Commission, United States and Canada",,,
+324,International Monetary Fund,,,
+325,Joint Chiefs of Staff,,,
+326,Library of Congress,,,
+327,Metropolitan Washington Airport Authority,,,
+328,Millennium Challenge Corporation,,,
+329,Missile Defense Agency,,,
+330,Mississippi River Commission,,,
+331,National Board for Education Sciences,,,
+332,National Capital Planning Commission,,,
+333,National Cemetery Administration,,,
+334,National Consumer Cooperative Bank,,,
+335,National Council on the Arts,,,
+336,National Council on the Humanities,,,
+337,National Foundation on Arts and Humanities,,,
+338,National Guard Bureau,,,
+339,National Museum and Library Services Board,,,
+340,National Nuclear Security Administration,,,
+341,National Railroad Passenger Corporation ,,,
+342,National Security Council,,,
+343,National Security Education Board,,,
+344,National Security Staff,,,
+345,Office of Electricity Delivery and Energy Reliability,,,
+346,Office of Environmental Management,,,
+347,Office of Fossil Energy,,,
+348,Office of Legal Counsel,,,
+349,Office of Navajo and Hopi Indian Relocation,,,
+350,Office of Nuclear Energy,,,
+351,Office of the Director of National Intelligence,,,
+352,Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects,,,
+353,President's Commission on White House Fellowships,,,
+354,Public Diplomacy and Public Affairs,,,
+355,Securities Investor Protection Corporation,,,
+356,Social Security Advisory Board,,,
+357,Special Panel on Appeals,,,
+358,State Justice Institute,,,
+359,United Nations,,,
+360,United States Advisory Commission on Public Diplomacy,,,
+361,United States Election Assistance Commission,,,
+362,United States Institute of Peace,,,
+363,United States Sentencing Commission,,,
+364,United States Soldiers and Airmens Home,,,
+365,United States Tax Court,,,
+366,Veterans Benefits Administration,,,
+367,Veterans Health Administration,,,
